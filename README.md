@@ -109,7 +109,3 @@ study-tracker/
 │   └── config.json.bak     <-- (如果升级) 自动备份的旧配置文件
 └── study_tracker.py        <-- 主程序脚本
 ```
-
-## ©️ 许可证
-
-本项目采用 [MIT License](https://opensource.org/licenses/MIT) 授权。
